@@ -6,7 +6,7 @@ services:
   - docker
 
 install: 
-  - echo "about to install"
+  - echo "about to install again"
 
 before_install: 
   - echo "none"
